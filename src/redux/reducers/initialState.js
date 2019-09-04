@@ -4,5 +4,7 @@ export default {
     // id: 1,
     // seoUrl: 'beverages'
   },
-  categories: []
+  categories: [],
+  prooducts: [],
+  cart: []
 };

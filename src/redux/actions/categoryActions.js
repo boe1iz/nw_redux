@@ -7,7 +7,7 @@ export const changeCategory = category => {
   };
 };
 
-export const getCategoriesSuccess = categories => {
+const getCategoriesSuccess = categories => {
   return {
     type: actionTypes.GET_CATEGORIES_SUCCESS,
     payload: categories

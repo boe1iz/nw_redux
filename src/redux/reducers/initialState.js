@@ -6,5 +6,6 @@ export default {
   },
   categories: [],
   prooducts: [],
-  cart: []
+  cart: [],
+  savedProduct: {}
 };
